@@ -1,1 +1,2 @@
-# fastapi-courses-template
+Пример бекенда на работы с курсами и постами.
+В основе FastAPI и MongoDB
